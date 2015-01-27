@@ -1,5 +1,5 @@
 # TrainIllust
-This repo Create Train Illust and Line and Car Spec JSON.
+This repo Create Train Illust and Corporation,Line and Car Spec JSON.
 
 Illust Files Created on Illustrator. and there size A4 monochrome,Frame only.
 
