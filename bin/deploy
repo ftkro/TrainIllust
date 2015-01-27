@@ -1,4 +1,4 @@
-#!/bin/sh
+#/bin/sh
 #HTML Gen&Minfy&Deploy
 git pull
 git add .
